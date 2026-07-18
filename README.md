@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ganeshpawar27/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ganeshpawar27/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ganeshpawar27/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
