@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ganeshpawar27/leetcode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/ganeshpawar27/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ganeshpawar27/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ganeshpawar27/leetcode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/ganeshpawar27/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -47,4 +49,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ganeshpawar27/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ganeshpawar27/leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ganeshpawar27/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
